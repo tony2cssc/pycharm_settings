@@ -1,33 +1,8 @@
 <application>
-  <component name="AppInspectionProfilesVisibleTreeState">
-    <entry key="Default">
-      <profile-state>
-        <expanded-state>
-          <State />
-        </expanded-state>
-        <selected-state>
-          <State>
-            <id>Django</id>
-          </State>
-        </selected-state>
-      </profile-state>
-    </entry>
-  </component>
   <component name="PropertiesComponent">
-    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6969697" />
-    <property name="Copy.OpenInEditor" value="true" />
-    <property name="Darcula.SavedEditorTheme" value="_@user_Darcula" />
     <property name="ExpandBeforeRunStepsPanel" value="true" />
-    <property name="ExpandRunDashboardTypesPanel" value="false" />
-    <property name="FileTemplates.CurrentTab" value="Code" />
-    <property name="FileTemplates.SelectedTemplate" value="JavaScript Implemented Method Body" />
-    <property name="InstalledPluginsSearchHistory" value="sett&#10;get" />
-    <property name="LayoutCode.codeCleanup" value="true" />
-    <property name="LayoutCode.optimizeImports" value="true" />
-    <property name="LayoutCode.rearrangeEntriesHTML" value="true" />
-    <property name="PACKAGE_FILTER" value="requests&#10;request" />
+    <property name="PACKAGE_FILTER" value="django" />
     <property name="PluginConfigurable.selectionTab" value="1" />
-    <property name="ProjectStructure.SecondLevelElements" value="0.41137567" />
     <property name="PyCharm.InitialConfiguration" value="true" />
     <property name="PyCharm.InitialConfiguration.V2" value="true" />
     <property name="PyCharm.InitialConfiguration.V3" value="true" />
@@ -36,37 +11,27 @@
     <property name="PyCharm.InitialConfiguration.V6" value="true" />
     <property name="PyCharm.InitialConfiguration.V7" value="true" />
     <property name="PyCharm.initialConfigurationShown" value="true" />
-    <property name="RESTClient.httpMethod" value="GET&#10;POST&#10;PUT&#10;PATCH&#10;DELETE&#10;HEAD&#10;OPTIONS" />
-    <property name="SettingsSearchHistory" value="pep&#10;form&#10;lint&#10;inter&#10;ending" />
-    <property name="evlsprt.183" value="168a4932ccc" />
-    <property name="evlsprt2.183" value="16842bc47a1" />
-    <property name="evlsprt3.183" value="19" />
-    <property name="file.chooser.recent.files" value="D:/GitRepo/bc-python-sample&#10;C:/Python/Python37/python.exe&#10;D:/GitRepo/python-scripts&#10;D:/GitRepo/django-blueblog/db.sqlite3&#10;D:/GitRepo/blueblog&#10;D:/GitRepo/django-blueblog/src/manage.py&#10;C:/Python/venv/django/Scripts/python.exe&#10;D:/GitRepo/django-blueblog&#10;C:/Python/venv/py37&#10;C:/Python/venv/django" />
-    <property name="file.gist.reindex.count" value="28359" />
+    <property name="evlsprt3.183" value="17" />
+    <property name="file.chooser.recent.files" value="C:/GitRepo/django-mysite" />
+    <property name="file.gist.reindex.count" value="5039" />
     <property name="fileTypeChangedCounter" value="1" />
-    <property name="lastTip" value="25" />
-    <property name="run.configuration.edit.ad" value="true" />
-    <property name="settings.code.style.selected.tab.EditorConfig" value="Spaces" />
-    <property name="settings.code.style.selected.tab.Python" value="Tabs and Indents" />
+    <property name="lastTip" value="5" />
     <property name="ts.lib.d.ts.version" value="3.2.1" />
   </component>
   <component name="PyTestFrameworkService">
     <option name="SDK_TO_PYTEST">
       <map>
-        <entry key="C:\Python\venv\bc\Scripts\python.exe" value="false" />
-        <entry key="C:\Python\venv\django\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\Administrator\.virtualenvs\django-mysite-j7Pe6wkb\Scripts\python.exe" value="false" />
       </map>
     </option>
     <option name="SDK_TO_NOSETEST">
       <map>
-        <entry key="C:\Python\venv\bc\Scripts\python.exe" value="false" />
-        <entry key="C:\Python\venv\django\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\Administrator\.virtualenvs\django-mysite-j7Pe6wkb\Scripts\python.exe" value="false" />
       </map>
     </option>
     <option name="SDK_TO_TRIALTEST">
       <map>
-        <entry key="C:\Python\venv\bc\Scripts\python.exe" value="false" />
-        <entry key="C:\Python\venv\django\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\Administrator\.virtualenvs\django-mysite-j7Pe6wkb\Scripts\python.exe" value="false" />
       </map>
     </option>
   </component>
